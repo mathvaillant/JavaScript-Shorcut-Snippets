@@ -14,4 +14,5 @@ function Person(name, dob) {
 // const hannah = new Person('Hannah', 25);
 
 const matt = new Person('Matt', '10-10-1997');
+console.log(matt)
 console.log(matt.calculateAge());
